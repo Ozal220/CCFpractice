@@ -9,7 +9,6 @@ class Ball{
 
 public class Question2 {
     public static void main(String[] args) {
-        int result;
         Scanner cin = new Scanner(System.in);
         int n = cin.nextInt();
         int L = cin.nextInt();
